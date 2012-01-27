@@ -40,7 +40,7 @@ Some programming languages:
 - C++
 
 Math
-===============
+~~~~~~~~~~~~~~~~~
 
 Here is an example of using LaTeX's excellent math rendering:
 
