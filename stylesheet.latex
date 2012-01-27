@@ -13,3 +13,5 @@
 %\usepackage{garamond}
 \usepackage[garamond]{mathdesign}
 %\usepackage[urw-garamond]{mathdesign}
+
+\titlegraphic{\includegraphics[height=2cm]{images/SFU_crest.png}}

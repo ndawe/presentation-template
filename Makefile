@@ -4,7 +4,7 @@ TEX := ${SRC:.rst=.tex}
 VIEWER := evince
 THEME := Warsaw
 STYLE := stylesheet.latex
-OPTS := professionalfonts,10pt,serif
+OPTS := professionalfonts,10pt,serif,table,xcolor=dvipsnames
 
 .PHONY: all clean
 all:: ${TARGET}
